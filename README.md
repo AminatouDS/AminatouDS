@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**AminatouDS/AminatouDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aminatou! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a young student in engineering cycle at the Faculty of Science and Technology of Marrakech.
+Passionate about everything that is related to data since my first year of university, I decided to launch myself in the field of Data Science.
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminatou-hamissou-2b492a21a/)
+
+
+
+## 🛠 Skills
+1. Python
+2. Machine Learning
+3. Business Intelligence
+4. Deep Learning
+5. SQL
+6. Statistics
+7. Data Science
+8. HTML CCSS JavaScript
+9. Java
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
